@@ -1,11 +1,11 @@
-# CLI Quiz App 📝
+**CLI Quiz App 📝**
 
 A **command-line interactive quiz application** built in Python.  
 Designed for beginners to intermediate Python learners, this project demonstrates **file handling, JSON data, timed input, and colored terminal output**. Perfect for showcasing in your GitHub portfolio.
 
 ---
 
-## Features ✅
+**Features ✅**
 
 - **Category-based quizzes**: Easy, Medium, Hard
 - **Random question selection**: Each session presents 3 questions from the chosen category
@@ -16,10 +16,7 @@ Designed for beginners to intermediate Python learners, this project demonstrate
 
 ---
 
-
----
-
-## Installation 🛠
+**Installation 🛠**
 
 1. **Clone the repository:**
 
@@ -27,27 +24,23 @@ Designed for beginners to intermediate Python learners, this project demonstrate
 git clone https://github.com/Bri-ankash/cli-quiz-app.git
 cd cli-quiz-app
 
-**Install Python (if not installed):**
-Bash
-Copy code
+2. **Install Python (if not installed):**
 pkg install python
 Install dependencies:
-Bash
-Copy code
 pip install colorama
+
+---
 
 **Usage ▶️**
 Run the quiz:
-Bash
-Copy code
 python quiz.py
 Choose a category (Easy, Medium, Hard)
 Answer questions within the 15-second timer
 View high scores or exit via the main menu
 
-**File Structure** 📂
-Copy code
+---
 
+**File Structure** 📂
 cli-quiz-app/
 │
 ├── quiz.py          # Main Python CLI quiz application
@@ -56,17 +49,23 @@ cli-quiz-app/
 └── README.md        # Project documentation
 scores.txt is generated automatically to store high scores (ignored in Git).
 
+---
+
 **Contributing 🤝**
 Contributions are welcome! You can:
 Add more questions to questions.json
 Improve UI/UX in the terminal
 Add features like full exam mode, random categories per session, or more timers
 
+---
+
 **Technologies 🧰**
 Python 3
 JSON for question storage
 colorama for colored terminal output
 Git & GitHub for version control
+
+---
 
 **License 📄**
 This project is open source and available under the MIT License.
