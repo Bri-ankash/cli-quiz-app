@@ -24,16 +24,16 @@ git clone https://github.com/Bri-ankash/cli-quiz-app.git
 cd cli-quiz-app 
 
 3. **Install Python (if not installed):**
-pkg install python
+`pkg install python`
 Install dependencies:
-pip install colorama
+`pip install colorama`
 
 ---
 
 **Usage ▶️**
 Run the quiz:
-python quiz.py
-Choose a category (Easy, Medium, Hard)
+`python quiz.py`
+Choose a category `(Easy, Medium, Hard)`
 Answer questions within the 15-second timer
 View high scores or exit via the main menu
 
