@@ -20,11 +20,10 @@ Designed for beginners to intermediate Python learners, this project demonstrate
 
 1. **Clone the repository:**
 
-'''Bash 
 git clone https://github.com/Bri-ankash/cli-quiz-app.git
-cd cli-quiz-app
+cd cli-quiz-app 
 
-2. **Install Python (if not installed):**
+3. **Install Python (if not installed):**
 pkg install python
 Install dependencies:
 pip install colorama
@@ -47,7 +46,6 @@ cli-quiz-app/
 ├── questions.json   # JSON file storing questions and answers
 ├── .gitignore       # To ignore scores.txt
 └── README.md        # Project documentation
-scores.txt is generated automatically to store high scores (ignored in Git).
 
 ---
 
