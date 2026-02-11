@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Easy",
+        "question": "What is the capital of France?",
+        "options": ["A) Paris", "B) London", "C) Berlin", "D) Madrid"],
+        "answer": "A"
+    },
+    {
+        "category": "Easy",
+        "question": "What is 5 + 7?",
+        "options": ["A) 10", "B) 12", "C) 14", "D) 11"],
+        "answer": "B"
+    },
+    {
+        "category": "Easy",
+        "question": "Which color do you get when you mix red and white?",
+        "options": ["A) Pink", "B) Purple", "C) Orange", "D) Brown"],
+        "answer": "A"
+    },
+    {
+        "category": "Medium",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A) Earth", "B) Mars", "C) Venus", "D) Jupiter"],
+        "answer": "B"
+    },
+    {
+        "category": "Medium",
+        "question": "Which language is this quiz written in?",
+        "options": ["A) Java", "B) Python", "C) C++", "D) Ruby"],
+        "answer": "B"
+    },
+    {
+        "category": "Medium",
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["A) Shakespeare", "B) Dickens", "C) Twain", "D) Tolkien"],
+        "answer": "A"
+    },
+    {
+        "category": "Hard",
+        "question": "What is the square root of 256?",
+        "options": ["A) 12", "B) 14", "C) 16", "D) 18"],
+        "answer": "C"
+    },
+    {
+        "category": "Hard",
+        "question": "Who developed the theory of relativity?",
+        "options": ["A) Newton", "B) Einstein", "C) Tesla", "D) Galileo"],
+        "answer": "B"
+    },
+    {
+        "category": "Hard",
+        "question": "What is the chemical symbol for gold?",
+        "options": ["A) Au", "B) Ag", "C) Go", "D) Gd"],
+        "answer": "A"
+    },
+    {
+        "category": "Hard",
+        "question": "Which organ in the human body produces insulin?",
+        "options": ["A) Liver", "B) Pancreas", "C) Kidney", "D) Heart"],
+        "answer": "B"
+    }
+]
