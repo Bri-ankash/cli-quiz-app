@@ -66,7 +66,10 @@ Git & GitHub for version control
 ---
 
 **License 📄**
-This project is open source and available under the MIT License.
-Author ✨
+This project is open source and available under the _MIT License_.
+
+---
+
+**Author ✨**
 Brian Kash
 GitHub: https://github.com/Bri-ankash�
