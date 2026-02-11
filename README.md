@@ -40,13 +40,13 @@ View high scores or exit via the main menu
 ---
 
 **File Structure** 📂
-cli-quiz-app/
+```cli-quiz-app/
 │
 ├── quiz.py          # Main Python CLI quiz application
 ├── questions.json   # JSON file storing questions and answers
 ├── .gitignore       # To ignore scores.txt
 └── README.md        # Project documentation
-
+```
 ---
 
 **Contributing 🤝**
